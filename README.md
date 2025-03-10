@@ -26,7 +26,7 @@
 
 <div align="center">
   <a href="https://github.com/malucpdassio/github-readme">
-    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=malucpdassio&show_icons=true&theme=bear"/>
-    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malucpdassio&layout=compact&show_icons=true&theme=bear"/>
+    <img align="center" height="200rem" src="https://github-readme-stats.vercel.app/api?username=malucpdassio&show_icons=true&theme=bear"/>
+    <img align="center" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malucpdassio&layout=compact&show_icons=true&theme=bear"/>
   </a>
 </div>
