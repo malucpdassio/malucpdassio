@@ -16,15 +16,13 @@
 
 ## Linguagens e Tecnologias
 <div align="center">
-    <img width="40rem" src="https://github.com/user-attachments/assets/06e4d06e-b508-45d3-817c-bd4b2b51515c"/>
-    <img width="40rem" src="https://github.com/user-attachments/assets/d6bf7424-8c57-4353-87dc-4549a7d4b2e2"/>
-    <img width="40rem" src="https://github.com/user-attachments/assets/e5000b87-96f3-475d-bcb0-066dc80d448f"/>
-    <img width="40rem" src="https://github.com/user-attachments/assets/2fcf39bc-8277-4a37-bda4-26c9d4309fa7"/>
+    <img width="40rem" src="https://github.com/user-attachments/assets/29cef7be-9e6a-4b60-a321-0a5e614780fd"/>
+    <img width="40rem" src="https://github.com/user-attachments/assets/ff8aa5d4-e9ce-4f4a-8615-934640d110e5"/>
+    <img width="40rem" src="https://github.com/user-attachments/assets/d65dde97-dd2d-4246-87fa-4a574ceec621"/>
+    <img width="40rem" src="https://github.com/user-attachments/assets/29b56030-4316-43be-aae3-29b43de1cd42"/>
 </div>
 
-
 ## Estatisticas
-
 <div align="center">
   <a href="https://github.com/malucpdassio/github-readme">
     <img align="center" height="140rem" src="https://github-readme-stats.vercel.app/api?username=malucpdassio&show_icons=true&theme=bear"/>
