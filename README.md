@@ -1,7 +1,7 @@
 # <💻MARIA LUIZA DÁSSIO/>
 **`Desenvolvedora Front-End`**
 
-<p align="center">Sou Maria Luiza Dássio, tenho 20 anos e sou nascida em Salvador-BA e atualmente estou na faculdade de Ciências da Computação, focada na área Front-End. Sou apaixonada por tecnologias e quero muito aprender tudo que estiver ao meu alcance sobre a área.</p>
+<p align="center">Sou Maria Luiza Dássio, tenho 21 anos e sou nascida em Salvador-BA e atualmente estou na faculdade de Ciências da Computação, focada na área Front-End. Sou apaixonada por tecnologias e quero muito aprender tudo que estiver ao meu alcance sobre a área.</p>
 
 
 
